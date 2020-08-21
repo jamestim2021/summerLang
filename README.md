@@ -26,3 +26,8 @@ general vim command
 - :help, get vim help
 
 
+- S, Shift
+- C, Control
+- D, Command
+- M, Meta, Alt
+
