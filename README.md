@@ -11,4 +11,7 @@ It is important for me to sleep enough.
 
 ### 97
 
-We decouple time in programs from time in machines
+We decouple **time** in programs from **time** in machines
+
+Atom is a string of characters beginnings with a letter or a special character other than a left '(' or right ')' parenthesis
+
