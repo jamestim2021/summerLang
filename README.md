@@ -31,3 +31,15 @@ general vim command
 - D, Command
 - M, Meta, Alt
 
+
+### 95
+
+- The first Commandment, (null? lat).
+- The second Commandment, use `cons` to build lists.
+
+Why use `Cond`? Because we need to ask questions about he actual arguments.
+
+
+
+
+
