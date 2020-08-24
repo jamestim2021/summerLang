@@ -36,8 +36,13 @@ general vim command
 
 - The first Commandment, (null? lat).
 - The second Commandment, use `cons` to build lists.
+- The forth Commandment, Always change at least one argument while recurring. It must be changed to be closer to termination. The changing argument must be tested in termination condition: when using `cdr`, test termination with `null?`
 
 Why use `Cond`? Because we need to ask questions about he actual arguments.
+
+### 94
+
+Thinking of test make problem clear
 
 
 
