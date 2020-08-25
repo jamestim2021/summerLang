@@ -34,7 +34,7 @@ general vim command
 
 ### 95
 
-- The first Commandment, (null? lat).
+- The first Commandment, When recurring on a list of atoms, lat, ask two questions about it: `(null? lat)` and else. When recurring on a number, n, ask two questions abount it: `(zero? n)` and else.
 - The second Commandment, use `cons` to build lists.
 - The forth Commandment, Always change at least one argument while recurring. It must be changed to be closer to termination. The changing argument must be tested in termination condition: when using `cdr`, test termination with `null?`
 
