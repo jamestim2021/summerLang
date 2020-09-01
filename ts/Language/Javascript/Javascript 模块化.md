@@ -59,10 +59,13 @@ cosnt sum = math.add(1, 2)
 
 ```javascript
 // math.js
-
 export function add(x , y) {
     return x + y
 }
+
+// a.js
+import math from './a'
+math.add(1, 2)
 ```
 
 ### 模块整体加载
@@ -81,21 +84,10 @@ import * as math from 'math'
 
 
 
-
-
-// a.js
-
-import math from './a'
-
-math.add(1, 2)
-```
-
-
 ## 参考
+
 - [浏览器加载 CommonJS 模块的原理与实现](https://www.ruanyifeng.com/blog/2015/05/commonjs-in-browser.html)
 - [AMD 规范](https://github.com/amdjs/amdjs-api/wiki/AMD)
 - [CMD 规范](https://github.com/seajs/seajs/issues/242)
 - [AMD 和 CMD 的区别有哪些？](https://www.zhihu.com/question/20351507/answer/14859415)
 - [seajs 和 RequireJs 异同](https://github.com/seajs/seajs/issues/277)
-
-```
