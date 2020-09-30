@@ -2,6 +2,11 @@
 Yet Another 100 days countdown
 
 
+
+益生菌，Sonata，
+
+
+
 ### 100
 
 after 100 to buy a ARM Macbook for my award.
@@ -55,4 +60,12 @@ When recurring down `car` and `cdr`, Then we are dealing tree structure.
 
 
 
+
+### 79
+
+- StudlyCapsCase：`StudlyCaps`
+- CamelCase：`camelCase`
+- SnakeCase: `snake_case`
+- KebabCase: `cabab-case`
+- SpaceCase：`pace case`
 
